@@ -4,3 +4,9 @@ c:\users\laura\documents\visual studio 2013\Projects\ConsoleApplication19\Consol
 c:\users\laura\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.pdb
 c:\users\laura\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
 c:\users\laura\documents\visual studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb
+C:\Users\Laura\Documents\GitHub\neuralnetwork\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe.config
+C:\Users\Laura\Documents\GitHub\neuralnetwork\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.exe
+C:\Users\Laura\Documents\GitHub\neuralnetwork\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.pdb
+C:\Users\Laura\Documents\GitHub\neuralnetwork\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.exe
+C:\Users\Laura\Documents\GitHub\neuralnetwork\ConsoleApplication19\ConsoleApplication19\bin\Debug\ConsoleApplication19.pdb
+C:\Users\Laura\Documents\GitHub\neuralnetwork\ConsoleApplication19\ConsoleApplication19\obj\Debug\ConsoleApplication19.csprojResolveAssemblyReference.cache
